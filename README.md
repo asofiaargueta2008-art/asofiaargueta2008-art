@@ -6,7 +6,7 @@
   <div align="center">
 
   <img
-    src="./assets/neon city.gif"
+    src="./assets/descarga.gif"
     width="100%"
     alt="Neon city"
   />
@@ -115,7 +115,7 @@
 <div align="center">
 
   <img
-    src="./assets/tiger.jpeg"
+    src="./assets/nini.gif"
     width="100%"
     alt="Kirby travelling through space"
   />
