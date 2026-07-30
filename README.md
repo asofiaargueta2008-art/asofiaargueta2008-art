@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=160&section=header&text=Hola,%20soy%20SOFIA%20✨&fontSize=34&fontColor=FFFFFF&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=160&section=header&text=Hi hi!,%20soy%20SOFIA%20&fontSize=34&fontColor=FFFFFF&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=550&lines=Programación+%2B+ilustración;Aprendiendo%2C+creando+y+rompiendo+cositas;Código+bonito%2C+ideas+raritas+✨" alt="Texto animado" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=550&lines=Programación+%2B+ilustración;Aprendiendo%2C+creando+y+rompiendo+cositas;Código+bonito%2C+ideas+raritas+" alt="Texto animado" />
 
 </div>
 
@@ -10,7 +10,6 @@
 
 - 📱 Me gusta crear aplicaciones y experimentar con Android.
 - 🐍 Estoy aprendiendo Python, OpenCV e inteligencia artificial.
-- 🎨 A veces cambio el código por ilustraciones medio raritas.
 - 🌱 Siempre estoy aprendiendo algo nuevo.
 - ✨ Mi objetivo es crear proyectos útiles, bonitos y creativos.
 
