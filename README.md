@@ -109,32 +109,6 @@ Este espacio reúne algunos de mis proyectos, prácticas y experimentos realizad
 
 </div>
 
-<br>
-
-## ✦ Selected transmissions
-
-### Applications
-Proyectos creados con Java, C#, Android y diferentes tecnologías de escritorio,
-móviles y backend.
-
-### Web experiments
-Interfaces, páginas y aplicaciones desarrolladas con HTML, CSS, JavaScript,
-React, Node.js y servicios web.
-
-### Computer vision archives
-Experimentos con Python, OpenCV, procesamiento de imágenes, comparación
-visual y detección de objetos.
-
-### Automation chamber
-Workflows creados con n8n para conectar servicios, automatizar procesos y
-reducir tareas repetitivas.
-
-### Creative oddities
-Ilustraciones, diseños, interfaces y pequeñas criaturas provenientes de
-dimensiones que probablemente no deberían tener acceso a GitHub.
-
-<br>
-
 <div align="center">
 
   <img
