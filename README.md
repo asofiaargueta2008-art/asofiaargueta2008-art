@@ -1,17 +1,15 @@
+<div align="center">
+
   <img
-    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&width=850&lines=%E2%9C%A6+Hola%2C+soy+Sof%C3%ADa+%E2%9C%A6;Welcome+to+my+little+digital+realm"
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&width=850&lines=%E2%9C%A6+Hola%2C+soy+Sof%C3%ADa+%E2%9C%A6;Welcome+to+my+little+project+archive"
     alt="Presentación animada de Sofía"
   />
-
-  <div align="center">
 
   <img
     src="./assets/descarga.gif"
     width="100%"
-    alt="Neon city"
+    alt="Neon digital city"
   />
-
-  <br>
 
   <p>
     <i>
@@ -21,83 +19,121 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Code_Mage-Level_10-7C3AED?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Alignment-Chaotic_Creative-EC4899?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Status-Debugging-06B6D4?style=for-the-badge"/>
+    <img
+      src="https://img.shields.io/badge/Code_Mage-Level_10-7C3AED?style=for-the-badge"
+      alt="Level 10 Code Mage"
+    />
+    <img
+      src="https://img.shields.io/badge/Alignment-Chaotic_Creative-EC4899?style=for-the-badge"
+      alt="Chaotic Creative"
+    />
+    <img
+      src="https://img.shields.io/badge/Status-Debugging-06B6D4?style=for-the-badge"
+      alt="Debugging"
+    />
   </p>
 
 </div>
 
 <br>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24,30&height=65&section=header&text=02.%20Current%20Side%20Quests&fontSize=25&fontColor=ffffff&fontAlign=24"
-  width="100%"
-  alt="Current side quests"
-/>
-
-<br>
+## ✦ Welcome to my project archive
 
 <img
   align="right"
-  src="./assets/kirby-rainbow.gif"
-  width="280"
-  alt="Emotional tiger"
+  src="./assets/tiger.jpeg"
+  width="175"
+  alt="Emotional tiger companion"
 />
 
-- 📱 Creando aplicaciones que idealmente no exploten.
-- 🔮 Learning Kotlin, Android and computer vision.
-- 🎨 Dibujando criaturas y cosas medio esperpénticas.
-- 🧪 Experimentando con interfaces, colores y detalles innecesarios.
-- 🐯 Protegiendo a este tigre de los horrores de producción.
-- ⭐ Accepting suspicious side quests since forever.
-- 🪄 Convirtiendo errores inexplicables en experiencia profesional.
+Este espacio reúne algunos de mis proyectos, prácticas y experimentos realizados con distintas tecnologías. Aquí encontrarás trabajos de desarrollo web, aplicaciones, bases de datos, automatización y otros proyectos que forman parte de mi aprendizaje.
 
 <br clear="right">
 
+<div align="center">
+
+  <img
+    src="./assets/kirby-rainbow.gif"
+    width="25%"
+    alt="Kirby rainbow separator"
+  />
+
+</div>
+
 <br>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=65&section=header&text=03.%20Spellbook&fontSize=25&fontColor=ffffff&fontAlign=15"
-  width="100%"
-  alt="Spellbook"
-/>
-
-<br>
+## ✦ Tech spellbook
 
 <div align="center">
 
   <img
-    src="https://skillicons.dev/icons?i=kotlin,androidstudio,python,opencv,react,js,html,css,git,github,vscode&theme=dark"
-    alt="Tecnologías"
+    src="https://skillicons.dev/icons?i=java,cs,dotnet,html,css,js,react,nodejs,mysql,python,git,github,vscode&theme=dark"
+    alt="Main technologies"
+  />
+
+</div>
+
+<div align="center">
+
+  <img
+    src="https://img.shields.io/badge/Java-Swing_%26_JavaFX-ED8B00?style=flat-square&logo=openjdk&logoColor=white"
+    alt="Java Swing and JavaFX"
+  />
+  <img
+    src="https://img.shields.io/badge/C%23-Windows_Forms-512BD4?style=flat-square&logo=dotnet&logoColor=white"
+    alt="C Sharp Windows Forms"
+  />
+  <img
+    src="https://img.shields.io/badge/ASP.NET-Core_Web_API-6C3FC5?style=flat-square&logo=dotnet&logoColor=white"
+    alt="ASP.NET Core Web API"
+  />
+  <img
+    src="https://img.shields.io/badge/SQL-MySQL_%26_SQL_Server-4479A1?style=flat-square&logo=mysql&logoColor=white"
+    alt="SQL databases"
+  />
+  <img
+    src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"
+    alt="Jupyter Notebook"
+  />
+  <img
+    src="https://img.shields.io/badge/n8n-Workflows-EA4B71?style=flat-square&logo=n8n&logoColor=white"
+    alt="n8n workflows"
+  />
+  <img
+    src="https://img.shields.io/badge/Windows-Server-0078D4?style=flat-square&logo=windows&logoColor=white"
+    alt="Windows Server"
   />
 
   <br><br>
 
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-8B5CF6?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-EC4899?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-06B6D4?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F472B6?style=flat-square&logo=git&logoColor=white"/>
-
-  <br><br>
 
 </div>
 
 <br>
 
+## ✦ Selected transmissions
 
+### Applications
+Proyectos creados con Java, C#, Android y diferentes tecnologías de escritorio,
+móviles y backend.
 
-<div align="center">
+### Web experiments
+Interfaces, páginas y aplicaciones desarrolladas con HTML, CSS, JavaScript,
+React, Node.js y servicios web.
 
-  <img
-    src="./assets/tiger.jpeg"
-    width="100%"
-    alt="Kirby travelling through space"
-  />
+### Computer vision archives
+Experimentos con Python, OpenCV, procesamiento de imágenes, comparación
+visual y detección de objetos.
 
-</div>
+### Automation chamber
+Workflows creados con n8n para conectar servicios, automatizar procesos y
+reducir tareas repetitivas.
+
+### Creative oddities
+Ilustraciones, diseños, interfaces y pequeñas criaturas provenientes de
+dimensiones que probablemente no deberían tener acceso a GitHub.
+
+<br>
 
 <div align="center">
 
@@ -108,16 +144,16 @@
 
   <br>
 
-  <code>PLAYER ONE IS STILL DEBUGGING</code>
-
-</div>
-
-<div align="center">
-
   <img
     src="./assets/nini.gif"
-    width="100%"
-    alt="Kirby travelling through space"
+    width="25%"
+    alt="Final animated companion"
   />
+
+  <br><br>
+
+  <code>PLAYER ONE IS STILL DEBUGGING</code>
+
+  <br><br>
 
 </div>
