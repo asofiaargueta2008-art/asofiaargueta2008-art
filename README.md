@@ -20,17 +20,21 @@
 
   <p>
     <img
-      src="https://img.shields.io/badge/Code_Mage-Level_10-7C3AED?style=for-the-badge"
-      alt="Level 10 Code Mage"
+      src="https://img.shields.io/badge/Grado-3ro DS-7C3AED?style=for-the-badge"
+      alt="3ro DS"
     />
+
+  <a href="mailto:asofiaargueta.2008@gmail.com">
     <img
-      src="https://img.shields.io/badge/Alignment-Chaotic_Creative-EC4899?style=for-the-badge"
-      alt="Chaotic Creative"
+      src="https://img.shields.io/badge/EMAIL-asofiaargueta.2008%40gmail.com-EC4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555"
+      alt="Email"
     />
+  </a>
     <img
-      src="https://img.shields.io/badge/Status-Debugging-06B6D4?style=for-the-badge"
-      alt="Debugging"
+      src="https://img.shields.io/badge/Status-Studing-06B6D4?style=for-the-badge"
+      alt="Studing"
     />
+</div>
   </p>
 
 </div>
@@ -62,7 +66,7 @@ Este espacio reúne algunos de mis proyectos, prácticas y experimentos realizad
 
 <br>
 
-## ✦ Tech spellbook
+## ✦ Tecnologías y herramientas
 
 <div align="center">
 
@@ -112,7 +116,7 @@ Este espacio reúne algunos de mis proyectos, prácticas y experimentos realizad
 <div align="center">
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=700&lines=End+of+transmission...;El+archivo+de+guardado+puede+estar+corrupto.;But+the+adventure+continues+%E2%9C%A8"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=700&lines=End+of+transmission...;But+the+adventure+continues!"
     alt="Mensaje final animado"
   />
 
